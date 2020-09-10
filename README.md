@@ -16,6 +16,8 @@ Escape the room from Auth0.
 
     ```shell
     cd gold-hunt
+
+    npm install
     ```
 
 1.  **Start developing.**
